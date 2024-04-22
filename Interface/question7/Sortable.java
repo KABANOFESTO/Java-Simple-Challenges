@@ -1,5 +1,5 @@
 package Interface.question7;
-import java.util.Arrays;
+
  interface Sortable {
      void sort(int[] arr);
 }
