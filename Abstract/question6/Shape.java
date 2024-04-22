@@ -1,7 +1,5 @@
 package Abstract.question6;
 
-import java.awt.*;
-
 abstract class Shape {
     abstract double RectangleArea(double length,double breadth);
     abstract double SquareArea(double side);
