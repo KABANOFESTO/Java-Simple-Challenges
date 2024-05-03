@@ -6,7 +6,7 @@ public class Main {
         int[] array = { 3, 9, 0, 4, 1, 7 };
 
         QuickSort quickSort = new QuickSort();
-        MergeSort mergeSort = new MergeSort();
+        // MergeSort mergeSort = new MergeSort();
 
 
         quickSort.sort(array.clone());
